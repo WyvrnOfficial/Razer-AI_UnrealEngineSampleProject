@@ -1,6 +1,6 @@
 # QA Copilot Unreal Demo
 
-This is a demo to show how to use the [WYVRN Unreal SDK](https://github.com/WyvrnOfficial/Unreal_WyvrnSDK/tree/UNICODE_WITHOUT_DLL) to communicate with Razer AI QA Copilot. This project was made with Unreal Engine 5.5.4.
+This is a demo to show how to use the [WYVRN Unreal SDK](https://www.wyvrn.com/) to communicate with Razer AI QA Copilot. This project was made with Unreal Engine 5.5.4.
 
 ## How to Use
 
