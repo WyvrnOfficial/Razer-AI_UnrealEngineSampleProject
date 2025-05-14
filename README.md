@@ -14,3 +14,9 @@ This is a demo to show how to use the [WYVRN Unreal SDK](https://www.wyvrn.com/)
 8. Press play.
 9. You should see InitSDK_SUCCESS in the top-left corner along with some other messages.
 10. Go through the level. You should see some other SUCCESS messages. Bug should be reported in the QA Copilot web dashboard.
+
+## Packages Used
+
+1. [Animation Starter Pack](https://www.fab.com/listings/98ff449d-79db-4f54-9303-75486c4fb9d9)
+2. [FPS Weapon Bundle](https://www.fab.com/listings/8aeb9c48-b404-4dcd-9e56-1d0ecedba7f5)
+3. [Modular SciFi Season 1 Starter Bundle](https://www.fab.com/listings/86913335-3c75-42bf-8404-54fe9d9d7396)
