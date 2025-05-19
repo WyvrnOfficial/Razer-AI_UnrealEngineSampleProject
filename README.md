@@ -7,7 +7,7 @@ This is a demo to show how to use the [WYVRN Unreal SDK](https://www.wyvrn.com/)
 1. Make sure MSVC is installed. Preferred compiler version for Unreal Engine 5.5.4 is v14.38-17.8. Not tested on Clang.
 2. Make sure Razer Chroma is installed and running.
 3. Log in to Razer AI QA Copilot
-4. Create Game project with game design document in "Content/GDD/Unreal Shooter GDD.pdf" and ensure the Game Title of the project is set to "RazerUnrealQADemo".
+4. Create Game project with game design document in "Content/GDD/Unreal.Shooter.GDD.pdf" and ensure the Game Title of the project is set to "RazerUnrealQADemo".
 5. Go to the settings page to download and install the Razer AI Service.
 6. Download and replace the service configuration file.
 7. Open QACopilotDemo.uproject.
